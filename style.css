@@ -93,4 +93,5 @@ body {
 .days li.date-now {
     color: #000;
     font-weight: 700;
+    border: 1px solid red;
 }
